@@ -1,3 +1,3 @@
 # KubyTool
-Outils vous permettant de pouvoir farmer en session public sans avoir de cancer a vos trousses.
+Outils permettant une deconnexion totale des joueurs de votre session public sur Gta 5 [PC]
  
